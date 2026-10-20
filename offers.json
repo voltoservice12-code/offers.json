@@ -1,0 +1,19 @@
+{
+  "offers": [
+    {
+      "badge": "SPECIAL OFFER",
+      "heading": "30% OFF on Appliance Repair",
+      "description": "Book your service today!"
+    },
+    {
+      "badge": "LIMITED TIME",
+      "heading": "Flat 25% OFF on AC Service",
+      "description": "Beat the heat with expert AC care at your doorstep."
+    },
+    {
+      "badge": "NEW CUSTOMER OFFER",
+      "heading": "20% OFF on Your First Booking",
+      "description": "Verified electricians, upfront pricing, no hidden fees."
+    }
+  ]
+}
